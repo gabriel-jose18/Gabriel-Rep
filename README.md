@@ -1,2 +1,4 @@
 # Gabriel-Rep
- Meu primeiro repositorio
+# Gabriel-Repositorio
+ Meu primeiro repositório no curso de git e github
+
